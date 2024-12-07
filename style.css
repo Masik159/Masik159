@@ -1,0 +1,106 @@
+#a{
+
+box-align:center;
+background-size: cover;
+}
+
+h1{
+ color:#9D6723;
+ text-align: center;
+ }
+
+#b{
+    text-align: center;
+}
+
+header{
+background-color:#3D4761;
+}
+
+ul{
+ list-style: none;
+ display:flex;
+ justify-content:space-between;
+}
+
+a{
+    text-decoration:none;
+    color:#990000;
+  }
+
+.gems {
+    border: 10px ridge #5b5b5b;
+    background-color: #bcbcbc;
+    padding: 0px 0px 0px ;
+    display:  inline-block;
+    flex-direction: column;
+    width: 30%;
+    border-radius: 50px;
+}
+.gems img {
+    width: 80%;
+
+}
+.gems {
+    font: small-caps bold 30px sans-serif;
+    text-align: center;
+}
+
+.CRY{
+    border: 10px ridge #b20404;
+    background-color: #2986cc;
+    padding: 0px 0px 0px ;
+    display:  inline-block;
+    flex-direction: column;
+    width: 30%;
+    border-radius: 50px;
+}
+.CRY img{
+    width: 80%;
+}
+.CRY {
+    font: small-caps bold 30px sans-serif;
+    text-align: center;
+}
+
+#c{
+    text-align: center;
+}
+
+.bobr {
+    border: 10px ridge #b20404;
+    background-color: #2986cc;
+    padding: 0px 0px 0px ;
+    display:  inline-block;
+    flex-direction: column;
+    width: 30%;
+    border-radius: 50px;
+  }
+  
+  .bobr img {
+    width: 80%;
+  }
+  
+  .bobr {
+    font: small-caps bold 1.2rem sans-serif;
+    text-align: center;
+}
+
+.ARC{
+    border: 10px ridge #095FA7;
+    background-color: #fff;
+    padding: 0px 0px 0px ;
+    display:  inline-block;
+    flex-direction: column;
+    width: 30%;
+    border-radius: 50px;
+}
+.ARC img {
+    width: 80%;
+    border-radius: 12px;
+  }
+  
+.ARC {
+    font: small-caps bold 1.2rem sans-serif;
+    text-align: center;
+}

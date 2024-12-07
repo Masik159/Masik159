@@ -1,0 +1,63 @@
+#a{
+    width:500px;
+  }
+  
+ul{
+    list-style:none;
+    display:flex;
+    justify-content:space-between;
+    width:500px;
+}
+
+a{
+    text-decoration:none;
+    color:#990000;
+}
+  
+nav{
+    display:flex;
+    justify-content:space-between;
+    padding:0 30px;
+}
+  
+#b{
+    width:500px;
+}
+  
+body{
+    color:#6B0000;
+}
+  
+#o{
+    color:#1D3C9C;
+}
+  
+h3{
+    color:#0E1E4E;
+    font-size:25px;
+}
+  
+h4{
+    font-size:25px;
+    color:#721010;
+}
+  
+#n{
+    width:250px;
+}
+  
+h5{
+   font-size:25px;
+    color:#c97400;
+}
+  
+#u{
+    color:#BE1B1B;
+}
+  
+#e{
+    color:#d7af12;
+}
+.card{
+    width: 250px;
+}  

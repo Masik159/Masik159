@@ -1,0 +1,50 @@
+#a{
+   width: 95%;
+}
+header{
+   background-color: #4D785C;
+}
+
+h1{
+   color:#2E4837;
+   text-align:center;
+}
+
+h2{
+   text-align:center;
+   color:#337d13;
+}
+
+#b{
+width: 50%;
+ display: block;
+ float: right;
+}
+#d{
+ width: 50%;
+ display: block;
+ padding: 100px 0px 0px;
+}
+
+#h{
+   border-color:#709297;
+   border-width:3px
+}
+
+#gg{
+   width: 50%;
+ display: block;
+ float: left;
+ color:#22629d;
+}
+#gz{
+   width: 50%;
+   display: block;
+   float: right;
+   color: red;
+}
+footer{
+   font-size:24px;
+   width: 50%;
+   border-radius:50px;
+}
